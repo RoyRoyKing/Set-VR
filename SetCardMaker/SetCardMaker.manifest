@@ -1,0 +1,10 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"script",
+	"author":	"Safusion",
+	"description":	{
+		"":	"creates set cards rlly ain't dat hard\n"
+	},
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true
+}
